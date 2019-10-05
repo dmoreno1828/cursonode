@@ -1,0 +1,23 @@
+{
+  "name": "Nombredelaapliacion",
+  "version": "0.0.1",
+  "description": "Curso de NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmoreno1828/curso.git"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.7.3",
+    "os": "^0.1.1",
+    "path": "^0.12.7"
+  }
+}
